@@ -1,1 +1,1 @@
-Kindly view diffrent configurations of diffrent soloutions ranginging from tuneels , Interior gateway protocols & BGP
+Kindly view different configurations of different solutions ranging from tunnels , Interior gateway protocols & BGP
